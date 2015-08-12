@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F59CBF54-2779-4282-BB27-B9D3207693D2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KeyBoard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>03372F76B8CE47F488B5CAD05D34E6F3C239444A</key>
+		<string>https://github.com/liguotal/limeng.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KeyBoard/KeyBoard.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>03372F76B8CE47F488B5CAD05D34E6F3C239444A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/liguotal/limeng.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>03372F76B8CE47F488B5CAD05D34E6F3C239444A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>03372F76B8CE47F488B5CAD05D34E6F3C239444A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LMGit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
